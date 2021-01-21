@@ -2,7 +2,7 @@
 
 Bootstrap 4.5/Vue 2.6/Laravel 8 - Simple CRUD app
 
-> Demo [FakePizza](http://178.217.158.43:3000)
+> Demo [CRUD Smiles](http://178.217.158.43:3000)
 > 
 <img src="demo.gif" width="700">
 
