@@ -4,7 +4,7 @@ Bootstrap 4.5/Vue 2.6/Laravel 8 - Simple CRUD app
 
 > Demo [FakePizza](http://178.217.158.43:3000)
 > 
-<img src="demo.gif" width="416">
+<img src="demo.gif" width="500">
 
 ### Installation
 
@@ -36,9 +36,9 @@ cp .env.example .env
 php artisan key:generate
 ````
 
-7. Migrate/Seed
+7. Migrate
 ````
-php artisan migrate:fresh --seed
+php artisan migrate:fresh
 ````
 
 8. Install Node modules
