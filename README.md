@@ -2,7 +2,8 @@
 
 Bootstrap 4.5/Vue 2.6/Laravel 8 - Simple CRUD app
 
-
+> Demo [FakePizza](http://178.217.158.43:3000)
+> 
 <img src="demo.gif" width="416">
 
 ### Installation
@@ -12,7 +13,7 @@ Bootstrap 4.5/Vue 2.6/Laravel 8 - Simple CRUD app
 2. Change to directory
 
 ````
-cd fakepizza
+cd TestWork_50724
 ````   
 
 3. Install dependencies
@@ -61,7 +62,7 @@ npm run prod
 2. Change to directory
 
 ````
-cd fakepizza
+cd TestWork_50724
 ```` 
 
 3. Download the docker-compose.yml file in the application directory
