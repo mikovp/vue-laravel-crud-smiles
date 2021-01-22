@@ -1,4 +1,4 @@
-# CRUD Smiles
+# Vue Laravel CRUD Smiles
 
 Bootstrap 4.5/Vue 2.6/Laravel 8 - Simple CRUD app
 
