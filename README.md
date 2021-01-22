@@ -13,7 +13,7 @@ Bootstrap 4.5/Vue 2.6/Laravel 8 - Simple CRUD app
 2. Change to directory
 
 ````
-cd TestWork_50724
+cd vue-laravel-crud-smiles
 ````   
 
 3. Install dependencies
@@ -54,7 +54,7 @@ npm run prod
 
 ### Installation with Docker
 
-> Inspiration from [https://hub.docker.com/r/bitnami/laravel](https://hub.docker.com/r/bitnami/laravel)
+> Docs here [https://hub.docker.com/r/bitnami/laravel](https://hub.docker.com/r/bitnami/laravel)
 
 
 1. Clone repo
@@ -62,7 +62,7 @@ npm run prod
 2. Change to directory
 
 ````
-cd TestWork_50724
+cd vue-laravel-crud-smiles
 ```` 
 
 3. Download the docker-compose.yml file in the application directory
