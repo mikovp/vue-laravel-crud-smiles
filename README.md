@@ -2,6 +2,8 @@
 
 Bootstrap 4.5/Vue 2.6/Laravel 8 - Simple CRUD app
 
+> Based to [https://github.com/anthonygore/vue-laravel-crud](https://github.com/anthonygore/vue-laravel-crud)
+
 <img src="demo.gif" width="700">
 
 ### Installation
