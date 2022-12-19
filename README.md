@@ -1,7 +1,6 @@
 # Vue Laravel CRUD Smiles
 
 Bootstrap 4.5/Vue 2.6/Laravel 8 - Simple CRUD app
-> Demo https://crud-smiles-eu.herokuapp.com/
 
 > Fork [https://github.com/anthonygore/vue-laravel-crud](https://github.com/anthonygore/vue-laravel-crud)
 
